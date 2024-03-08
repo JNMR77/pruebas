@@ -7,6 +7,7 @@ package com.mycompany.pruebas;
 /**
  *
  * @author jorge
+ * @version 1.0 en Git
  */
 public class Persona {
     private String nombre="Juan Perez";
